@@ -1,6 +1,6 @@
 {
   "currentPhase": 5,
-  "currentTopic": 23,
+  "currentTopic": 24,
   "topics": [
     {"phase": 1, "area": "foundations/design-thinking", "title": "Design Thinking Origins", "query": "Design Thinking history IDEO Stanford d.school Herbert Simon methodology evolution"},
     {"phase": 1, "area": "foundations/design-thinking", "title": "Design Thinking Methods", "query": "Design Thinking empathize define ideate prototype test double diamond divergent convergent"},
@@ -54,9 +54,10 @@
     {"index": 19, "title": "AI in Service Design", "completedAt": "2026-03-14T00:00:32Z", "outputFile": "emerging/ai-service-design/20-ai-in-service-design.md"},
     {"index": 20, "title": "AI in Journey Orchestration", "completedAt": "2026-03-15T00:00:22Z", "outputFile": "emerging/ai-orchestration/21-ai-in-journey-orchestration.md"},
     {"index": 21, "title": "Low-Code Experience Platforms", "completedAt": "2026-03-16T00:00:24Z", "outputFile": "emerging/low-code-platforms/22-low-code-experience-platforms.md"},
-    {"index": 22, "title": "Nordic Service Design Leadership", "completedAt": "2026-03-17T00:00:35Z", "outputFile": "emerging/nordic-design/23-nordic-service-design-leadership.md"}
+    {"index": 22, "title": "Nordic Service Design Leadership", "completedAt": "2026-03-17T00:00:35Z", "outputFile": "emerging/nordic-design/23-nordic-service-design-leadership.md"},
+    {"index": 23, "title": "UK GDS & Public Sector Design", "completedAt": "2026-03-18T00:00:43Z", "outputFile": "emerging/uk-gds/24-uk-gds-public-sector-design.md"}
   ],
-  "lastRun": "2026-03-17T00:00:35Z",
+  "lastRun": "2026-03-18T00:00:43Z",
   "status": "active",
-  "note": "Phase 5 (Emerging Topics) in progress. Topic 22 completed: Nordic Service Design Leadership covering Denmark's #1 digital government ranking, Finland's MyData movement, the Nordic Service Design Network manifesto, consultancies (Fjord, Livework), and distinctive characteristics of the Scandinavian approach (trust, design-led public sector, regional collaboration)."
+  "note": "Phase 5 (Emerging Topics) in progress. Topic 23 completed: UK GDS & Public Sector Design covering the formation of GDS in 2011, GOV.UK consolidation (1,882 sites → 1), the 14-point Service Standard, GOV.UK Design System, 2026 roadmap (AI, GOV.UK Wallet, One Login used by 13M people), global influence on digital government worldwide, and lessons for journey operations at enterprise scale."
 }
