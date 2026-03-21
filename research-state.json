@@ -1,6 +1,6 @@
 {
   "currentPhase": 5,
-  "currentTopic": 26,
+  "currentTopic": 27,
   "topics": [
     {"phase": 1, "area": "foundations/design-thinking", "title": "Design Thinking Origins", "query": "Design Thinking history IDEO Stanford d.school Herbert Simon methodology evolution"},
     {"phase": 1, "area": "foundations/design-thinking", "title": "Design Thinking Methods", "query": "Design Thinking empathize define ideate prototype test double diamond divergent convergent"},
@@ -57,9 +57,10 @@
     {"index": 22, "title": "Nordic Service Design Leadership", "completedAt": "2026-03-17T00:00:35Z", "outputFile": "emerging/nordic-design/23-nordic-service-design-leadership.md"},
     {"index": 23, "title": "UK GDS & Public Sector Design", "completedAt": "2026-03-18T00:00:43Z", "outputFile": "emerging/uk-gds/24-uk-gds-public-sector-design.md"},
     {"index": 24, "title": "Asia-Pacific CX Innovation", "completedAt": "2026-03-19T00:00:26Z", "outputFile": "emerging/apac-innovation/25-asia-pacific-cx-innovation.md"},
-    {"index": 25, "title": "Journey Mapping Tools Comparison", "completedAt": "2026-03-20T00:00:20Z", "outputFile": "emerging/tools-mapping/26-journey-mapping-tools-comparison.md"}
+    {"index": 25, "title": "Journey Mapping Tools Comparison", "completedAt": "2026-03-20T00:00:20Z", "outputFile": "emerging/tools-mapping/26-journey-mapping-tools-comparison.md"},
+    {"index": 26, "title": "Journey Orchestration Platforms", "completedAt": "2026-03-21T00:00:28Z", "outputFile": "emerging/tools-orchestration/27-journey-orchestration-platforms.md"}
   ],
-  "lastRun": "2026-03-20T00:00:20Z",
+  "lastRun": "2026-03-21T00:00:28Z",
   "status": "active",
-  "note": "Phase 5 (Emerging Topics) in progress. Topic 25 completed: Journey Mapping Tools Comparison covering market evolution from mapping tools to journey management platforms, detailed comparison of 8 major platforms (Smaply, UXPressia, Custellence, TheyDo, Miro, FigJam, Mural, Lucidchart), pricing analysis, feature matrices, enterprise journey maturity model, AI capabilities assessment, and selection criteria by scenario. Key insights: market segmented into three tiers (general-purpose collaboration tools, dedicated mapping tools, journey management platforms), shift from static workshop artifacts to operational systems of record, AI becoming table stakes for research synthesis, and recognition that tool adoption matters more than feature count. Critical decision framework: episodic mapping vs. operational journey management determines tool category selection."
+  "note": "Phase 5 (Emerging Topics) in progress. Topic 26 completed: Journey Orchestration Platforms covering market evolution from marketing automation to real-time decisioning engines, three-tier platform segmentation (enterprise marketing clouds, mobile-first engagement platforms, CX orchestration), detailed comparison of 6 major platforms (Adobe Journey Optimizer, Braze, Salesforce Marketing Cloud, Genesys, Insider One, Qualtrics), CDP integration architecture patterns, Gartner/Forrester analyst perspectives, agentic AI orchestration trends, and platform selection framework with weighted scorecards. Key insights: orchestration platforms are the execution layer for journey-centric operating models, market consolidating toward unified CDP+orchestration platforms, shift from static rule-based paths to AI-driven autonomous journey management, and recognition that journey orchestration is table stakes (not nice-to-have) for digital experience leaders. Critical distinction: mapping tools visualize and align, orchestration platforms execute and optimize in real-time. Next topic (27): Design System Tooling."
 }
