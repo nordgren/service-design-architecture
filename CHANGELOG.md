@@ -4,6 +4,37 @@ All notable changes to this knowledge base will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [2.0.0] - 2026-04-01
+
+### Added
+- **Phase 5: Emerging Topics** — 9 topics completed
+  - AI in Service Design (2026-03-14)
+  - AI in Journey Orchestration (2026-03-15)
+  - Low-Code Experience Platforms (2026-03-16)
+  - Nordic Service Design Leadership (2026-03-17)
+  - UK GDS & Public Sector Design (2026-03-18)
+  - Asia-Pacific CX Innovation (2026-03-19)
+  - Journey Mapping Tools Comparison (2026-03-20)
+  - Journey Orchestration Platforms (2026-03-21)
+  - Design System Tooling (2026-03-22)
+
+### Changed
+- **Synthesis Document v2.0** — Updated to include all 28 topics
+  - Added Section 7: Emerging Topics (Phase 5)
+  - Renumbered sections 8-10 (Reference Library, Gap Analysis)
+  - Updated metadata: 28 research documents, 100+ sources, ~20,000 words
+  - Research period extended to 2026-03-22
+
+### Status
+- **Knowledge Base Complete** — All 28 topics across 5 phases researched
+- Phase 1 (Foundations): 6 topics ✓
+- Phase 2 (Methods): 4 topics ✓
+- Phase 3 (Intersections): 4 topics ✓
+- Phase 4 (Journey Ops): 5 topics ✓
+- Phase 5 (Emerging): 9 topics ✓
+
+---
+
 ## [1.0.0] - 2026-03-12
 
 ### Added
@@ -69,16 +100,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## Planned
+## Future Maintenance
 
-### [1.1.0] - Expected 2026-03-20
-- **Phase 5: Emerging Topics** — 9 topics planned
-  - AI in Service Design
-  - AI in Journey Orchestration
-  - Low-Code/No-Code Experience Platforms
-  - Nordic Service Design Leadership
-  - UK GDS & Public Sector Design
-  - Asia-Pacific CX Innovation
-  - Journey Mapping Tools Comparison
-  - Journey Orchestration Platform Landscape
-  - Design System Tooling & Governance
+The knowledge base is now complete. Recommended maintenance:
+- **Quarterly:** Refresh emerging topics (AI, tools, platforms)
+- **Annually:** Update maturity models, framework versions
+- **As needed:** Add new case studies as published

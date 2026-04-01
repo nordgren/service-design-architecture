@@ -1,10 +1,10 @@
 # Service Design × Business Architecture × Journey Operations
 ## Comprehensive Knowledge Base Synthesis
 
-**Version:** 1.0  
-**Compiled:** 2026-03-12  
-**Research Period:** 2026-02-14 to 2026-03-07  
-**Topics Covered:** 19 research documents across 4 phases  
+**Version:** 2.0  
+**Compiled:** 2026-04-01 (Updated from 2026-03-12)  
+**Research Period:** 2026-02-14 to 2026-03-22  
+**Topics Covered:** 28 research documents across 5 phases  
 **Target Audience:** Senior leadership and transformation practitioners in large retail organizations
 
 ---
@@ -929,7 +929,195 @@ The hardest dimension is always culture. Research consistently shows:
 
 ---
 
-## 7. Case References
+## 7. Emerging Topics (Phase 5)
+
+Phase 5 research (March 14-22, 2026) explored cutting-edge developments across AI integration, global innovation patterns, and tooling evolution.
+
+### 7.1 AI in Service Design
+
+**Status:** Rapid adoption (2024-2026); best practices emerging
+
+**Key Developments:**
+- By 2028, 95%+ of enterprises projected to use generative AI in production [Gartner, Dec 2025]
+- Agentic AI integration increasing from 5% (early 2025) to projected 40% by end of 2026
+
+**AI Application Areas:**
+
+| Application | Valid Uses | Invalid Uses |
+|-------------|------------|--------------|
+| **Synthetic Users/Personas** | Desk research, hypothesis generation, workshop ideation | Final decisions without real users, empathy-building, nuanced behavior |
+| **AI Journey Mapping** | Initial drafts, pattern identification, hypothesis generation | Replacement for ethnographic research, emotional nuance capture |
+| **Research Synthesis** | Aggregating existing knowledge, summarizing large datasets | Generating novel insights without real data |
+
+**Critical Limitations:**
+- AI exhibits "sycophancy" (tendency to please); vastly outperforms real humans in usability tests (not representative)
+- Training data bias: responses reflect academic literature, not messy reality
+- Cannot capture authentic emotional nuance or context-dependent priorities
+
+**Best Practice:** *"Supplement, never substitute."* Real user research essential for empathy, mental models, authentic priorities, and unexpected insights.
+
+**Sources:** NN/g (Sept 2025), Synthetic Users, Delve AI
+
+---
+
+### 7.2 AI in Journey Orchestration
+
+**Status:** Fundamental transformation (2025-2026)
+
+**The Shift:** From brand-led to customer-led journeys; from linear funnels to adaptive, co-created experiences.
+
+**Core Capabilities:**
+
+1. **Real-Time Decisioning Engines**
+   - Interpret behavioral signals (clicks, sentiment, location, context)
+   - Predict next-best action with millisecond latency
+   - Use reinforcement learning for continuous optimization
+
+2. **Agentic AI Systems**
+   - Autonomous goal-driven agents coordinating subtasks
+   - Agent types: intent detection, knowledge retrieval, recommendation, sentiment analysis, transaction, escalation
+   - Orchestration layer maintains conversation state across journey
+
+3. **Predictive Engagement**
+   - Anticipate customer needs before explicit signals
+   - Dynamic personalization at individual level
+   - Channel preference prediction and send-time optimization
+
+**Industry Projection:** By 2025, AI handles 95% of all customer interactions [industry analysis]
+
+**Sources:** Genesys, Adobe Journey Optimizer, Braze, industry analysts
+
+---
+
+### 7.3 Low-Code Experience Platforms
+
+**Status:** Strategic infrastructure (2025-2026)
+
+**Market Context:**
+- DXP Market: $59.2B by 2035 (16.3% CAGR)
+- 75% of new enterprise apps projected on low-code/no-code by 2026 [Gartner]
+- 64% of enterprises now using headless architecture
+
+**Market Bifurcation:**
+
+| Category | Examples | Focus |
+|----------|----------|-------|
+| **Enterprise Low-Code** | OutSystems, Mendix, Microsoft Power Platform | Internal tools, workflow automation |
+| **Composable DXP** | Contentful, Commercetools, Bloomreach | Customer-facing experiences |
+
+**Key Trends:**
+- **MACH architecture dominance** (Microservices, API-first, Cloud-native, Headless)
+- **Agentic DXP emergence** — AI agents as "connective tissue across systems"
+- **Content reasserts primacy** — AEO/GEO reshaping discovery patterns
+- **Governance crisis warning** — Gartner warns of high-profile DXP + Agentic AI failures due to implementation gaps
+
+**Sources:** Gartner, Forrester Q4 2025 DXP Wave, Custom Market Insights
+
+---
+
+### 7.4 Global Innovation Patterns
+
+#### Nordic Service Design Leadership
+
+**Nordic Service Design Network** (2016): Joint collaboration across Denmark, Finland, Sweden, Norway sharing core values of quality of life, humanism, digital-first, and openness.
+
+**Key Insights:**
+- 80% of Nordic GDP in service sector
+- Denmark: #1 in UN e-government rankings; extensive design.gov.dk capabilities
+- Finland: Ministry of Finance leading public sector service design
+- Sweden: Integration of service design into welfare innovation
+
+**Pattern:** Government-led digital transformation with citizen-centric design embedded in policy-making.
+
+#### UK GDS & Public Sector Design
+
+**Government Digital Service (2011):** Transformed UK government digital services through user-centered design, achieving #1 UN e-government ranking within 5 years.
+
+**10 Government Design Principles:**
+1. Start with user needs
+2. Do less
+3. Design with data
+4. Do the hard work to make it simple
+5. Iterate. Then iterate again
+6. This is for everyone
+7. Understand context
+8. Build digital services, not websites
+9. Be consistent, not uniform
+10. Make things open: it makes things better
+
+**Impact:** GOV.UK replaced 1,882 government websites with one unified platform at <30% annual cost; handles 1B+ transactions/year.
+
+**Global Influence:** Inspired US Digital Service, Australia DTA, Canada, Japan, and dozens of other nations.
+
+#### Asia-Pacific CX Innovation
+
+**Three Distinct Approaches:**
+
+| Region | Model | Key Characteristics |
+|--------|-------|---------------------|
+| **China** | Super-App Ecosystems | WeChat (1.41B MAU), Alipay, Douyin mini-programs; comprehensive lifestyle platforms |
+| **Singapore** | Smart Nation | AI-powered citizen services; world-leading digital government infrastructure |
+| **Japan** | Digital Omotenashi | Traditional hospitality excellence translated to digital; Toyota Production System + CX |
+
+**Super-App Innovation:** Mini-programs (轻应用) run within parent apps (8-20MB), eliminating need for dozens of native apps. WeChat spans utilities, entertainment, healthcare, transportation, community services.
+
+**Sources:** Digital Creative, Smart Nation Singapore, industry analysis
+
+---
+
+### 7.5 Tooling Evolution
+
+#### Journey Mapping Tools
+
+**Market Segmentation:**
+1. **General-purpose collaboration** (Miro, FigJam, Mural) — journey mapping as one capability
+2. **Dedicated mapping tools** (Smaply, UXPressia, Custellence) — visualization and basic management
+3. **Journey management platforms** (TheyDo) — living operational artifacts with workflow integration
+
+**Decision Framework:**
+
+| Choose Tool When | Choose Platform When |
+|------------------|---------------------|
+| Team < 20 people | Mature CX practice with dedicated team |
+| Episodic mapping | Version control, governance, reuse needed |
+| Workshop outputs focus | Connection to project mgmt, analytics, research |
+| Limited budget | ROI measurement from insight to implementation |
+
+**Key Trend:** Movement from static journey maps to dynamic, data-connected management systems as single source of truth.
+
+#### Journey Orchestration Platforms
+
+**Three Categories:**
+
+| Category | Examples | Focus |
+|----------|----------|-------|
+| **Enterprise Marketing Clouds** | Salesforce, Adobe, Oracle | Multi-product suites; ecosystem integration |
+| **Mobile-First Engagement** | Braze, Iterable, MoEngage, Insider One | Consumer apps; real-time behavioral triggers |
+| **CX Orchestration** | Genesys, NICE, CSG | Contact center; voice/chat/omnichannel service |
+
+**Core Capabilities:** Real-time decisioning (ms latency), CDP integration, cross-channel orchestration (12+ channels), AI-powered personalization.
+
+#### Design System Tooling
+
+**The 2025-2026 Inflection Point:**
+
+Design system tooling consolidating around three pillars:
+1. **Standardized design tokens** — W3C DTCG 1.0 standard
+2. **AI-augmented workflows** — MCP, agentic governance
+3. **Continuous delivery for design** — Git-based automation pipelines
+
+**Modern Stack:**
+- **Design Authoring:** Figma (Variables, Dev Mode, Code Connect, MCP server)
+- **Token Management:** Tokens Studio (DTCG v1 support), Style Dictionary, Supernova
+- **Component Development:** Storybook (de facto standard)
+
+**ROI Finding:** Organizations adopting DTCG tokens, CI/CD for design, and governance frameworks achieve up to 60% better design system ROI and 30-60% faster component updates.
+
+**Sources:** W3C DTCG, Figma Schema 2025, Tokens Studio, Supernova, Storybook
+
+---
+
+## 8. Case References
 
 ### 7.1 Published Case Studies
 
@@ -968,9 +1156,9 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 
 ---
 
-## 8. Reference Library
+## 9. Reference Library
 
-### 8.1 Academic Papers and Journals
+### 9.1 Academic Papers and Journals
 
 | Author(s) | Title | Year | URL | Relevance |
 |-----------|-------|------|-----|-----------|
@@ -982,7 +1170,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | Kotusev & Alwadain | "Modeling Business Capabilities in Enterprise Architecture Practice" | 2023 | *Information Systems Management* | First systematic study of capability model usage |
 | Patti, van Dessel, Hartley | "A Smarter Approach to Measuring Customer Experience" | 2026 | MIT Sloan Management Review | Metric rationalization; journey measurement |
 
-### 8.2 Books
+### 9.2 Books
 
 | Author(s) | Title | Year | Relevance |
 |-----------|-------|------|-----------|
@@ -994,7 +1182,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | Kelley, Tom & David | *Creative Confidence* | 2013 | IDEO design thinking philosophy |
 | Liedtka & Ogilvie | *Designing for Growth* | 2011 | Design thinking for business strategy |
 
-### 8.3 Practitioner Articles and Blog Posts
+### 9.3 Practitioner Articles and Blog Posts
 
 | Source | Title | Year | URL | Relevance |
 |--------|-------|------|-----|-----------|
@@ -1009,7 +1197,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | CMSWire | "The Complete Guide to Customer Journey Mapping in 2025" | 2025 | https://www.cmswire.com/customer-experience/customer-journey-mapping-a-how-to-guide/ | Modern journey mapping practices |
 | Cutter Consortium | "Making the Customer Experience Real with Business Architecture" | — | https://www.cutter.com/article/ | CX-BA integration framework |
 
-### 8.4 Framework Documentation
+### 9.4 Framework Documentation
 
 | Framework | Steward | URL | Relevance |
 |-----------|---------|-----|-----------|
@@ -1022,7 +1210,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | **Service Design Network Maturity Model** | SDN/DesignIt | https://medium.com/touchpoint/the-service-design-maturity-model | 5-stage, 4-pillar maturity framework |
 | **TheyDo Journey Management Maturity Index** | TheyDo | https://www.theydo.com/best-practices/journey-management-maturity-index | 5-level, 6-dimension maturity model |
 
-### 8.5 Conference Talks and Presentations
+### 9.5 Conference Talks and Presentations
 
 | Speaker | Topic | Event/Platform | Relevance |
 |---------|-------|----------------|-----------|
@@ -1032,7 +1220,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | Kate Kaplan (NN/g) | Journey management, DesignOps | NN/g conferences | Practical journey management |
 | Birgit Mager (SDN) | Service design movement | SDN conferences | Service design leadership |
 
-### 8.6 Tools and Platforms
+### 9.6 Tools and Platforms
 
 | Category | Platform | URL | Focus |
 |----------|----------|-----|-------|
@@ -1051,9 +1239,9 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 
 ---
 
-## 9. Gap Analysis
+## 10. Gap Analysis
 
-### 9.1 Topics Lacking Mature Literature or Evidence
+### 10.1 Topics Lacking Mature Literature or Evidence
 
 | Gap Area | Current State | Evidence Level | Recommendation |
 |----------|--------------|----------------|----------------|
@@ -1063,7 +1251,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | **Cross-silo attribution models** | Technical solutions exist; governance models immature | Developing | Need governance frameworks for journey-level attribution |
 | **Employee journey integration** | Strong correlation evidence; few integrated operating models | Developing | Extend customer journey methods to employee context |
 
-### 9.2 Practitioner-Academic Divergence
+### 10.2 Practitioner-Academic Divergence
 
 | Topic | Academic Guidance | Practitioner Reality | Gap |
 |-------|------------------|---------------------|-----|
@@ -1073,7 +1261,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | **Design thinking process** | Non-linear, iterative | Often applied as linear waterfall | Training may not convey non-linear nature effectively |
 | **Journey ownership** | Single accountable owner | Often committee-based or unclear | Organizational politics override methodological guidance |
 
-### 9.3 Retail-Specific Gaps
+### 10.3 Retail-Specific Gaps
 
 | Gap | Description | Impact |
 |-----|-------------|--------|
@@ -1083,7 +1271,7 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 | **Frontline employee journey integration** | Customer journey well-documented; employee journey less so | Employee experience treated separately from customer experience |
 | **Supplier ecosystem journey design** | Focus on internal journeys; partner journeys underexplored | End-to-end experience breaks at ecosystem boundaries |
 
-### 9.4 Questions Remaining Unanswered
+### 10.4 Questions Remaining Unanswered
 
 1. **What is the optimal organizational structure for journey management at different enterprise scales?** Research shows maturity models but not scale-specific guidance.
 
@@ -1103,11 +1291,12 @@ Limited retail-specific case studies with quantified outcomes were found in publ
 
 ## Document Metadata
 
-**Compilation Date:** 2026-03-12  
-**Research Sources:** 19 research documents + supplementary sources  
-**Total Sources Cited:** 75+  
-**Word Count:** ~15,000  
-**Version:** 1.0
+**Compilation Date:** 2026-04-01 (v2.0)  
+**Original Compilation:** 2026-03-12 (v1.0)  
+**Research Sources:** 28 research documents across 5 phases + supplementary sources  
+**Total Sources Cited:** 100+  
+**Word Count:** ~20,000  
+**Version:** 2.0
 
 **Evidence Confidence Levels Used:**
 - **Established practice**: Widely adopted, multiple converging sources, academic validation
