@@ -1,0 +1,88 @@
+{
+  "description": "Authoritative sources for Service Design × Business Architecture maintenance monitoring",
+  "lastUpdated": "2026-04-10",
+  "sources": [
+    {
+      "name": "IDEO",
+      "url": "https://www.ideo.com/blog",
+      "topics": ["design thinking", "human-centered design"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "Service Design Network",
+      "url": "https://www.service-design-network.org",
+      "topics": ["service design", "journey mapping"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "TOGAF Standard",
+      "url": "https://www.opengroup.org/togaf",
+      "topics": ["enterprise architecture", "ADM"],
+      "checkFrequency": "quarterly"
+    },
+    {
+      "name": "Business Architecture Guild",
+      "url": "https://www.businessarchitectureguild.org",
+      "topics": ["business architecture", "BIZBOK"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "Forrester Research",
+      "url": "https://www.forrester.com",
+      "topics": ["CX", "journey analytics", "experience platforms"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "Gartner",
+      "url": "https://www.gartner.com",
+      "topics": ["enterprise architecture", "composable business", "AI"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "McKinsey Design",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-design",
+      "topics": ["design transformation", "customer experience"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "NNGroup",
+      "url": "https://www.nngroup.com/articles/",
+      "topics": ["UX research", "service design", "journey mapping"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "UK Government Digital Service",
+      "url": "https://gds.blog.gov.uk",
+      "topics": ["public sector design", "service standards"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "Adaptive Path / Capital One",
+      "url": "https://adaptivepath.org",
+      "topics": ["experience mapping", "service blueprinting"],
+      "checkFrequency": "quarterly"
+    },
+    {
+      "name": "Simon Wardley",
+      "url": "https://blog.gardeviance.org",
+      "topics": ["Wardley mapping", "strategy"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "MIT Sloan Management Review",
+      "url": "https://sloanreview.mit.edu",
+      "topics": ["digital transformation", "AI strategy"],
+      "checkFrequency": "monthly"
+    }
+  ],
+  "searchTerms": [
+    "service design 2026",
+    "journey orchestration platform",
+    "experience architecture enterprise",
+    "customer journey analytics AI",
+    "business architecture framework update",
+    "design operations trends",
+    "composable experience platform"
+  ],
+  "suggestedTopicsLog": []
+}
