@@ -84,5 +84,24 @@
     "design operations trends",
     "composable experience platform"
   ],
-  "suggestedTopicsLog": []
+  "suggestedTopicsLog": [
+    {
+      "date": "2026-05-01",
+      "topic": "BIZBOK v15 Release",
+      "note": "Updated domain definitions, governance practices, metamodel views, and tooling guidance (Apr 2026)",
+      "source": "https://www.morningstar.com/news/pr-newswire/20260408sf29398/business-architecture-guild-releases-bizbok-guide-v15"
+    },
+    {
+      "date": "2026-05-01",
+      "topic": "Adobe CX Agentic AI",
+      "note": "Adobe Summit 2026 announced agentic AI for campaigns: synthesizes intelligence from Real-Time CDP, Customer Journey Analytics, Journey Optimizer, builds plans, waits for approval, executes, tracks against goals",
+      "source": "https://www.cxtoday.com/ai-automation-in-cx/adobe-summit-2026-cx-announcements/"
+    },
+    {
+      "date": "2026-05-01",
+      "topic": "Journey Orchestration: AI-First & Conversational Journey Monitoring",
+      "note": "2026 shift toward AI-powered orchestration, conversational journey tracking (beyond owned channels), fallback logic for channel failures, deeper integration with third-party platforms",
+      "source": "Multiple: indigitall.com, cxtoday.com, zigment.ai"
+    }
+  ]
 }
