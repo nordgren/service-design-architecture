@@ -54,11 +54,16 @@ This repository contains research, synthesis, and practical guidance for transfo
 - [Journey Transformation Adoption](journey-ops/adoption/18-journey-transformation-adoption.md)
 - [Journey Ops in Retail](journey-ops/retail/19-journey-ops-in-retail.md)
 
-**Phase 5: Emerging** *(In Progress)*
-- AI in Service Design
-- AI in Journey Orchestration
-- Global Best Practices
-- Tools Landscape
+**Phase 5: Emerging**
+- [AI in Service Design](emerging/ai-service-design/20-ai-in-service-design.md)
+- [AI in Journey Orchestration](emerging/ai-orchestration/21-ai-in-journey-orchestration.md)
+- [Low-Code Experience Platforms](emerging/low-code-platforms/22-low-code-experience-platforms.md)
+- [Nordic Service Design Leadership](emerging/nordic-design/23-nordic-service-design-leadership.md)
+- [UK GDS & Public Sector Design](emerging/uk-gds/24-uk-gds-public-sector-design.md)
+- [Asia-Pacific CX Innovation](emerging/apac-innovation/25-asia-pacific-cx-innovation.md)
+- [Journey Mapping Tools Comparison](emerging/tools-mapping/26-journey-mapping-tools-comparison.md)
+- [Journey Orchestration Platforms](emerging/tools-orchestration/27-journey-orchestration-platforms.md)
+- [Design System Tooling](emerging/tools-design-systems/28-design-system-tooling.md)
 
 ## 🔧 Generate PDF Locally
 
@@ -90,9 +95,9 @@ google-chrome --headless --print-to-pdf=SYNTHESIS.pdf SYNTHESIS.html
 | 2. Methods | 4 | ✅ Complete |
 | 3. Intersections | 4 | ✅ Complete |
 | 4. Journey Ops | 5 | ✅ Complete |
-| 5. Emerging | 9 | 🔄 In Progress |
+| 5. Emerging | 9 | ✅ Complete |
 
-**Total: 28 topics** (19 complete, 9 in progress)
+**Total: 28 topics** ✅ All complete — now in maintenance mode
 
 ## 🤝 Contributing
 
@@ -131,4 +136,5 @@ For questions, suggestions, or collaboration opportunities, open an issue or rea
 
 ---
 
-*Last updated: March 2026*
+*Last updated: May 2026*  
+*Status: Maintenance mode — monthly scans for industry updates*
