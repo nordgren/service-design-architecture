@@ -1,6 +1,6 @@
 {
   "description": "Authoritative sources for Service Design × Business Architecture maintenance monitoring",
-  "lastUpdated": "2026-04-10",
+  "lastUpdated": "2026-05-27",
   "sources": [
     {
       "name": "IDEO",
@@ -47,7 +47,7 @@
     {
       "name": "NNGroup",
       "url": "https://www.nngroup.com/articles/",
-      "topics": ["UX research", "service design", "journey mapping"],
+      "topics": ["UX research", "service design", "journey mapping", "journey management practice"],
       "checkFrequency": "monthly"
     },
     {
@@ -73,6 +73,40 @@
       "url": "https://sloanreview.mit.edu",
       "topics": ["digital transformation", "AI strategy"],
       "checkFrequency": "monthly"
+    },
+    {
+      "name": "TheyDo",
+      "url": "https://www.theydo.com/blog",
+      "topics": ["journey management", "journey ops org structure", "enterprise journey practice"],
+      "checkFrequency": "monthly",
+      "priority": "high",
+      "note": "Leading vendor with strong practitioner content; Beyond the Map conference; Journey Management Institute"
+    },
+    {
+      "name": "Futurice",
+      "url": "https://www.futurice.com/blog",
+      "topics": ["journey operations", "value streams", "service design"],
+      "checkFrequency": "monthly",
+      "note": "Strong content on Journey Operations organizational models"
+    },
+    {
+      "name": "Hellon",
+      "url": "https://hellon.com/momentum",
+      "topics": ["journey operations", "customer journey strategy"],
+      "checkFrequency": "monthly"
+    },
+    {
+      "name": "This Is Service Design Doing",
+      "url": "https://www.thisisservicedesigndoing.com",
+      "topics": ["service design methods", "journey management training"],
+      "checkFrequency": "quarterly"
+    },
+    {
+      "name": "Journey Management Institute",
+      "url": "https://www.journeymanagementinstitute.com",
+      "topics": ["journey management standards", "journey ops certification"],
+      "checkFrequency": "quarterly",
+      "note": "Emerging standards body; co-founded by Ray Gerber and Mark Smith"
     }
   ],
   "searchTerms": [
@@ -82,14 +116,93 @@
     "customer journey analytics AI",
     "business architecture framework update",
     "design operations trends",
-    "composable experience platform"
+    "composable experience platform",
+    "journey operations organizational structure",
+    "journey ops team model enterprise",
+    "journey management practice large organization",
+    "value stream journey teams"
   ],
+  "watchList": {
+    "journeyOpsOrgStructure": {
+      "description": "Ongoing watch for journey ops organizational models in large enterprises",
+      "addedDate": "2026-05-27",
+      "keyReferences": [
+        {
+          "title": "Pfizer - Journey Ops Role",
+          "contact": "Grace de Athayde, Customer Journey Operations Lead",
+          "note": "Hybrid role: service design + product thinking + business reporting",
+          "source": "TheyDo Beyond the Map 2025"
+        },
+        {
+          "title": "Lloyds Banking Group - Scaling Journey Management",
+          "contact": "Aki Sirawongprasert, Service Design Practice Lead",
+          "note": "Enterprise-wide journey management movement; executive buy-in",
+          "source": "TheyDo Beyond the Map 2025"
+        },
+        {
+          "title": "CHG Healthcare - Strategic Alignment",
+          "contact": "Brian Reed (VP Experience Design), Dan Sullivan (Dir Journey Management)",
+          "note": "Immersive journey exhibit; cross-functional alignment",
+          "source": "TheyDo Beyond the Map 2025"
+        },
+        {
+          "title": "Lufthansa Group - Digital Hangar",
+          "contact": "Daniel Hoffman (Lead Service Designer), Melanie Völkle (Chapter Lead User Research)",
+          "note": "Multi-brand journey management at scale",
+          "source": "TheyDo Beyond the Map 2025"
+        },
+        {
+          "title": "KPN - B2B Journey Management",
+          "contact": "Gitta Mors (Manager Customer Centricity B2B)",
+          "note": "B2B context; AI-amplified insights",
+          "source": "TheyDo Beyond the Map 2025 / Essense partnership"
+        },
+        {
+          "title": "EnBW - Journey Thinking for Team Structure",
+          "contact": "Jens Scharnetzki, Head of Experience Design & Journey Management",
+          "note": "Dynamic journey-led org model; cross-functional ownership",
+          "source": "TheyDo Beyond the Map 2025"
+        },
+        {
+          "title": "NN/g Journey Management Practice Report",
+          "note": "Operational models, strategic frameworks, case studies ($149-298)",
+          "source": "https://www.nngroup.com/reports/journey-management/"
+        },
+        {
+          "title": "Futurice Value Stream Model",
+          "note": "Teams organized around value streams (verbs: sending, renting, ordering); Business/User/Tech lenses",
+          "source": "https://www.futurice.com/blog/journey-operations"
+        }
+      ],
+      "nextActions": [
+        "Monitor TheyDo blog for Beyond the Map 2025 session recordings/summaries",
+        "Track Journey Management Institute standards development",
+        "Watch for published case studies from Lloyds, Pfizer, Lufthansa",
+        "Consider adding NN/g report to reference library"
+      ]
+    }
+  },
   "suggestedTopicsLog": [
+    {
+      "date": "2026-05-27",
+      "topic": "BIZBOK v15 Deep Dive",
+      "note": "Released April 8, 2026. Key updates: Product Mapping (capability-based product/service design), Capability & Value Mapping clarifications, Industry Reference Models (9 industries enhanced), Application Portfolio Management (outcome-focused evaluation), BA Knowledgebase (domain definition, governance, metamodel), Tooling Options (streamlined evaluation criteria)",
+      "source": "https://www.prnewswire.com/news-releases/business-architecture-guild-releases-bizbok-guide-v15-302736535.html",
+      "status": "integrated"
+    },
+    {
+      "date": "2026-05-27",
+      "topic": "Journey Ops Organizational Models",
+      "note": "Emerging 'journey ops' function as hybrid role (service design + product thinking + business reporting). Key practitioners: Pfizer, Lloyds, Lufthansa, CHG Healthcare, KPN, EnBW. TheyDo Beyond the Map 2025 conference (Oct 8-10, Barcelona) focused on journey management practice.",
+      "source": "Multiple: TheyDo, Futurice, Hellon",
+      "status": "watching"
+    },
     {
       "date": "2026-05-01",
       "topic": "BIZBOK v15 Release",
       "note": "Updated domain definitions, governance practices, metamodel views, and tooling guidance (Apr 2026)",
-      "source": "https://www.morningstar.com/news/pr-newswire/20260408sf29398/business-architecture-guild-releases-bizbok-guide-v15"
+      "source": "https://www.morningstar.com/news/pr-newswire/20260408sf29398/business-architecture-guild-releases-bizbok-guide-v15",
+      "status": "superseded by 2026-05-27 entry"
     },
     {
       "date": "2026-05-01",

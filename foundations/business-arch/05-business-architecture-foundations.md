@@ -14,13 +14,21 @@ Unlike enterprise architecture (which takes a broader view including technology)
 The Business Architecture Body of Knowledge (BIZBOK®) is the definitive framework maintained by the Business Architecture Guild. It consolidates best practices, principles, and techniques into an overall framework for business architecture practice.
 
 **Key Publication:**
-- BIZBOK® Guide (current version 10.0+, regularly updated)
+- BIZBOK® Guide v15 (released April 8, 2026)
 - Maintained by Business Architecture Guild
-- Industry-specific reference models available to members (~$150/year)
+- Industry-specific reference models available via Learning Center (membership required)
+
+**BIZBOK v15 Key Updates (April 2026):**
+- **Product Mapping:** Updated guidelines for capability-based product and customer service design
+- **Capability & Value Mapping:** Clarified language, usage context, and Guild-aligned cross-mapping
+- **Industry Reference Models:** Enhanced models for Financial Services, Government, Healthcare, IDO, Insurance, Manufacturing, Telecommunications, and Transportation
+- **Application Portfolio Management:** Refined outcome-focused evaluation for cost, debt, and portfolio decisions
+- **Business Architecture Knowledgebase:** Updated domain definitions, setup/governance practices, metamodel views
+- **Tooling Options:** Streamlined terminology, structure, roles, and evaluation criteria for enterprise-scale tools
 
 **Sources:**
 - https://www.businessarchitectureguild.org/
-- https://cdn.ymaws.com/www.businessarchitectureguild.org/resource/resmgr/bizbok_10/introduction_v10_final.pdf
+- https://www.prnewswire.com/news-releases/business-architecture-guild-releases-bizbok-guide-v15-302736535.html
 
 ---
 
