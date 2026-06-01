@@ -1,6 +1,6 @@
 {
   "description": "Authoritative sources for Service Design × Business Architecture maintenance monitoring",
-  "lastUpdated": "2026-05-27",
+  "lastUpdated": "2026-06-01",
   "sources": [
     {
       "name": "IDEO",
@@ -183,6 +183,20 @@
     }
   },
   "suggestedTopicsLog": [
+    {
+      "date": "2026-06-01",
+      "topic": "Gartner 2026 Strategic Roadmap for Customer Service Journey Management",
+      "note": "Gartner predicts 30% of service organizations will build journey management discipline by 2028. 2026 roadmap maps gap between current state and leading cohort. Validates journey management as organizational capability, not just design method. Reinforces 'journey management office' pattern for large organizations.",
+      "source": "https://www.theydo.com/blog/articles/mind-the-gap-making-service-journey-improvement-stick-gartner-research",
+      "status": "watching"
+    },
+    {
+      "date": "2026-06-01",
+      "topic": "Transformative Experience Journey Management (Book)",
+      "note": "New book by Diane Magers & Stacy Sherman (May 2026). Framework for operational journey management beyond mapping. Aligns with TheyDo/JMI practitioner community.",
+      "source": "https://us.amazon.com/Transformative-Experience-Journey-Management-capabilities/dp/1835081134",
+      "status": "reference"
+    },
     {
       "date": "2026-05-27",
       "topic": "BIZBOK v15 Deep Dive",
