@@ -1,0 +1,37 @@
+title: Fusion AI Harness
+description: Multi-model LLM fusion with independent evaluation
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+url: https://nordgren.github.io
+baseurl: /service-design-architecture
+
+# Exclude non-doc files from the Jekyll build
+exclude:
+  - src/
+  - configs/
+  - tests/
+  - requirements.txt
+  - generate-html.js
+  - package.json
+  - package-lock.json
+  - SYNTHESIS.md
+  - SYNTHESIS.html
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - research-state.json
+  - emerging/
+  - foundations/
+  - intersections/
+  - journey-ops/
+  - maintenance/
+  - methods/
+  - reports/
+  - sources/
+
+# just-the-docs navigation
+nav_enabled: true
+search_enabled: true
+
+# Collections
+plugins:
+  - jekyll-seo-tag
