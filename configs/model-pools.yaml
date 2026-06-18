@@ -1,0 +1,58 @@
+pools:
+  reasoning:
+    description: "Deep analysis and complex reasoning tasks"
+    models:
+      - deepseek/deepseek-r1:free
+      - qwen/qwen3-coder-480b-instruct:free
+      - meta-llama/llama-3.3-70b-instruct:free
+    synthesizer: deepseek/deepseek-r1:free
+    use_cases:
+      - complex analysis
+      - research
+      - multi-step reasoning
+
+  general:
+    description: "Balanced quality for most tasks"
+    models:
+      - meta-llama/llama-3.3-70b-instruct:free
+      - google/gemma-2-27b-it:free
+      - deepseek/deepseek-r1:free
+    synthesizer: deepseek/deepseek-r1:free
+    use_cases:
+      - general questions
+      - writing
+      - summarization
+
+  technical:
+    description: "Code, architecture, and technical documentation"
+    models:
+      - qwen/qwen3-coder-480b-instruct:free
+      - deepseek/deepseek-r1:free
+      - meta-llama/llama-3.3-70b-instruct:free
+    synthesizer: deepseek/deepseek-r1:free
+    use_cases:
+      - coding
+      - technical documentation
+      - architecture design
+
+  speed:
+    description: "Lower latency for faster responses"
+    models:
+      - google/gemma-2-9b-it:free
+      - meta-llama/llama-3.1-8b-instruct:free
+      - mistralai/mistral-7b-instruct:free
+    synthesizer: meta-llama/llama-3.3-70b-instruct:free
+    use_cases:
+      - quick answers
+      - drafts
+      - interactive use
+
+  minimal:
+    description: "Two-model fusion for quick testing"
+    models:
+      - deepseek/deepseek-r1:free
+      - meta-llama/llama-3.3-70b-instruct:free
+    synthesizer: deepseek/deepseek-r1:free
+    use_cases:
+      - testing
+      - development
