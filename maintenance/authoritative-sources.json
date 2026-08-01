@@ -1,6 +1,6 @@
 {
   "description": "Authoritative sources for Service Design × Business Architecture maintenance monitoring",
-  "lastUpdated": "2026-06-01",
+  "lastUpdated": "2026-08-01",
   "sources": [
     {
       "name": "IDEO",
@@ -183,6 +183,34 @@
     }
   },
   "suggestedTopicsLog": [
+    {
+      "date": "2026-08-01",
+      "topic": "Forrester: Journey Management Platform Maturation",
+      "note": "Forrester blog (March 2026) frames shift 'from maps to measurable impact.' Leading orgs adopting CJM platforms that connect discovery, delivery, and measurement as 'connective tissue' between VoC, analytics, and orchestration. Validates operational journey management as platform category.",
+      "source": "https://www.forrester.com/blogs/customer-journey-management-in-2026-from-maps-to-measurable-impact/",
+      "status": "watching"
+    },
+    {
+      "date": "2026-08-01",
+      "topic": "Adobe CX Enterprise",
+      "note": "Adobe announced end-to-end agentic AI system (April 2026) for unified customer experience orchestration. Extends Summit 2026 agentic AI announcements. Major vendor consolidation move; signals maturity of agentic AI in CX operations beyond campaign automation.",
+      "source": "https://news.adobe.com/news/2026/04/adobe-redefines-custome-experience",
+      "status": "watching"
+    },
+    {
+      "date": "2026-08-01",
+      "topic": "Multimodal AI as CX Baseline",
+      "note": "Single-channel AI being surpassed by multimodal systems (text, images, video, voice, documents in single conversation thread). Raises bar for journey orchestration platforms; cross-channel memory now table stakes.",
+      "source": "https://time2accelerate.com/blog/2026-cx-trends-ai-personalization-and-the-future-of-customer-engagement",
+      "status": "watching"
+    },
+    {
+      "date": "2026-08-01",
+      "topic": "Enterprise Architecture Resurgence",
+      "note": "Five forces driving EA resurgence: cost pressure, AI acceleration, cyber risk, regulation have removed tolerance for 'architecture as theatre.' Shift toward operational architecture vs. documentation exercises. Aligns with journey ops emphasis on measurable impact.",
+      "source": "https://www.intelance.co.uk/the-ultimate-guide-to-enterprise-architecture-frameworks/",
+      "status": "watching"
+    },
     {
       "date": "2026-06-01",
       "topic": "Gartner 2026 Strategic Roadmap for Customer Service Journey Management",
